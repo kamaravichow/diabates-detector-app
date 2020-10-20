@@ -1,5 +1,6 @@
 # Diabates Detector
  A web app that predicts if you have diabetes based on the report inputs using machine learning
+ ![Home](https://github.com/kamaravichow/diabates-detector-app/raw/main/docs/home.png)
  
  ## Requirements 
  Pandas - ``` pip install pandas ```
@@ -21,6 +22,9 @@
 - This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
  
 The dataset was taken from kaggle at : https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
+|![Stats](https://github.com/kamaravichow/diabates-detector-app/raw/main/docs/stats.png)| ![Prediction](https://github.com/kamaravichow/diabates-detector-app/raw/main/docs/predictions.png)|
+|---|---|
 
 ## Run
 Use the following command to run it on your local machine 
