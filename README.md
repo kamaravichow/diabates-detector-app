@@ -32,7 +32,7 @@ Use the following command to run it on your local machine
 ```bash 
 streamlit run "C:\PATH_TO_FOLDER\diabates-detector\app.py"
 ```
-This show open browser automatically to a locally hosted website.
+This should open up a browser window automatically to a locally hosted website.
 
 ## Liked it ?
 If you liked it feel free to star the repo or fork it to start contributing. If you find something wrong or have an idea to improve this, just open an issue or tag me in a tweet on [twitter](https://www.twitter.com/kamaravichow)
